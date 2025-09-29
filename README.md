@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 
 <h2 align="center">
-  🚀 Compras
+  🛒 Compras
 </h2>
 
 <p align="center">
@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.dev/)
 
 ## 💻 Projeto
-- Aplicativo React Native para organizar suas compras de forma rápida e prática!
+- Aplicativo React Native com expo para organizar suas compras de forma rápida e prática!
 Com o app, você cria sua lista de compras em segundos e nunca mais esquece nada no mercado.
 
 ## 📌 Funcionalidades:
